@@ -2,3 +2,7 @@
 计划.md
 每日打卡.md
 八月学习路线图.md
+
+# Python 缓存文件
+__pycache__/
+*.pyc
